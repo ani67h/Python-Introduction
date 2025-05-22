@@ -1,0 +1,7 @@
+print('DRINK A GLASS OF WATER ALGORITHM')
+print('Start 1 : Is the glass is empty?')
+print('Decision 1 : Yes' + ' ; Decision 2 : No')
+print('Process 1 : Take the glass' + ' ; Process 2 : Do you want to drink water?')
+print('Process 3 : Fill it with water' + ' ; Decision 3 : Yes , Decision 4 : No,')
+print('Process 4 : Put the glass on the table ; ' + 'Arrow 1 : Process 1, Arrow : End 1')
+print('End 1')
